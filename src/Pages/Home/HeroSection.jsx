@@ -16,7 +16,7 @@ const HeroSection = () => {
             <br /> Dolorum, quas. Amet soluta assumenda cum?
           </p>
         </div>
-        <button className="btn btn-primary">Get In Touch</button>
+        <button className="btn btn-primary">Download CV</button>
       </div>
       <div className="hero--section--img">
         <img src="./img/HeroImage.jpg" alt="Hero Section" />
