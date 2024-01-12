@@ -54,7 +54,7 @@ function Navbar() {
               smooth={true}
               offset={-70}
               duration={500}
-              to='HeroSection'
+              to="heroSection"
               className="navbar--content"
             >
               Home
@@ -96,7 +96,7 @@ function Navbar() {
               smooth={true}
               offset={-70}
               duration={500}
-              to="MySkill"
+              to="mySkills"
               className="navbar--content"
             >
               Skills
