@@ -4,6 +4,7 @@ import MySkill from '../MySkill'
 import MyPortfolio from '../MyPortfolio'
 import AboutMe from '../aboutme'
 import ContactMe from '../ContactMe'
+import Footer from '../Footer'
 
 const Home = () => {
   return (
@@ -13,6 +14,7 @@ const Home = () => {
     <AboutMe />
     <MyPortfolio />
     <ContactMe />
+    <Footer />
     
     </>
   )

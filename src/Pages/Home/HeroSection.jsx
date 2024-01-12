@@ -7,19 +7,19 @@ const HeroSection = () => {
         <div className="hero--section--content">
           <p className="section--title">Hey, I'm Binod</p>
           <h1 className="hero--section--title">
-            <span className="hero--section-title--color">Full Stack</span>{" "}
+            <span className="hero--section-title--color">IT</span>{" "}
             <br />
-            Developer
+            Engineer
           </h1>
           <p className="hero--section-description">
-            Lorem ipsum dolor sit, amet consectetur adipisicing elit.
-            <br /> Dolorum, quas. Amet soluta assumenda cum?
+            I design and code beautifully simple things,
+            <br /> and I love what I do.
           </p>
         </div>
         <button className="btn btn-primary">Download CV</button>
       </div>
       <div className="hero--section--img">
-        <img src="./img/HeroImage.jpg" alt="Hero Section" />
+        <img src="./img/Homescreen.jpg" alt="Hero Section" />
       </div>
     </section>
   )
