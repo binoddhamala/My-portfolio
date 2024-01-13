@@ -2,9 +2,7 @@
   "name": "portfolio",
   "version": "0.1.0",
   "private": true,
-  "engines": {
-    "node": ">=12.x"
-  },
+    "type":"module",
   "dependencies": {
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
