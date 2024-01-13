@@ -6,7 +6,7 @@ import AboutMe from '../aboutme'
 import ContactMe from '../ContactMe'
 import Footer from '../Footer'
 
-const Home = () => {
+export default function Home() {
   return (
     <>
     <HeroSection />
@@ -19,5 +19,3 @@ const Home = () => {
     </>
   )
 }
-
-export default Home
