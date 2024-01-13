@@ -23,25 +23,25 @@
     "portfolio": [
       {
         "id": "1",
-        "src": "./img/placeholder-image.png",
-        "title": "Ahuse",
-        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
-        "link":  "View In Github"
+        "src": "./img/PMS.png",
+        "title": "Product Management System",
+        "description": "It utilizing CRUD operations allows users to Create, Read, Update, and Delete product information, enabling seamless management of product data throughout its lifecycle.",
+        "link":  "https://pms-five-green.vercel.app/"
   
       },
       {
         "id": "2",
-        "src": "./img/placeholder-image-1.png",
-        "title": "App Dashboard",
-        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
-        "link": "https://my-awesome-react-project.netlify.app/"
+        "src": "./img/HRS.png",
+        "title": "Hotel Reservation System",
+        "description": "It is an online platform that enables customers to book and manage hotel accommodations efficiently, offering a streamlined and automated solution for both guests and hotel operators.",
+        "link": "https://github.com/binoddhamala/Hotel-management-"
       },
       {
         "id": "3",
-        "src": "./img/placeholder-image-2.png",
-        "title": "Easy Rentn",
-        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
-        "link": "View In Github"
+        "src": "./img/OLS.png",
+        "title": "Online learning Platform",
+        "description": "An online learning system is a digital platform that enables students to access educational content, resources, and interactive lessons via the internet. ",
+        "link": "https://github.com/binoddhamala/Online-Learning-Platform"
       }
     ]
 }

@@ -98,7 +98,7 @@ const Footer = () => {
       </div>
     
     <hr className="divider" />
-      <p className="footer--content">Created by Binod Dhamala</p>
+      <p className="footer--content">Created by @ Binod Dhamala</p>
   </footer>
   )
 }

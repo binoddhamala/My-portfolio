@@ -16,7 +16,7 @@ const HeroSection = () => {
             <br /> and I love what I do.
           </p>
         </div>
-        <button className="btn btn-primary">Download CV</button>
+        <button className="btn btn-primary">Hire me</button>
       </div>
       <div className="hero--section--img">
         <img src="./img/Homescreen.jpg" alt="Hero Section" />
