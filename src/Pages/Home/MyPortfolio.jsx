@@ -14,7 +14,7 @@ const MyPortfolio = () => {
         {data?.portfolio?.map((item, index) => (
           <div key={index} className="portfolio--section--card">
             <div className="portfolio--section--img">
-              <img src={item.src} alt="Project photo" />
+              <img src={item.src} alt="Photo" />
             </div>
             <div className="portfolio--section--card--content">
               <div>

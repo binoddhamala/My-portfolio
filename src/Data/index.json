@@ -3,7 +3,7 @@
       {
         "id": "1",
         "src": "./img/frontend.png",
-        "title": "Front-End",
+        "title": "frontend",
         "description": "My focus in building the frontend of websites and web application that leads to the success of the overall project.Used technologies : HTML, CSS, JS, React, Bootstrap, Vue, Next "
       },
       {
@@ -23,7 +23,7 @@
     "portfolio": [
       {
         "id": "1",
-        "src": "./img/backend.png",
+        "src": "./im",
         "title": "Product Management System",
         "description": "It utilizing CRUD operations allows users to Create, Read, Update, and Delete product information, enabling seamless management of product data throughout its lifecycle.",
         "link":  "https://pms-five-green.vercel.app/"
