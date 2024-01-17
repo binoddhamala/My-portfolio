@@ -23,7 +23,7 @@
     "portfolio": [
       {
         "id": "1",
-        "src": "./img/PMS.png",
+        "src": "./img/backend.png",
         "title": "Product Management System",
         "description": "It utilizing CRUD operations allows users to Create, Read, Update, and Delete product information, enabling seamless management of product data throughout its lifecycle.",
         "link":  "https://pms-five-green.vercel.app/"
