@@ -555,10 +555,11 @@ select {
   .skills--section,
   .portfolio--container,
   .hero--section--content--box {
-    align-items: center;
+    align-items: left;
+    align-items: left;
   }
   .hero--section--content{
-    text-align: left;
+    text-align: center;
   }
   .portfolio--container-box {
     gap: 30px;

@@ -4,12 +4,10 @@ import data from "../../Data/index.json";
 const MyPortfolio = () => {
   return (
     <section className="portfolio--section" id="MyPortfolio">
-      <div className="portfolio--container-box">
         <div className="portfolio--container">
           <p className="sub--title">Recent Projects</p>
           <h2 className="section--heading">My Portfolio</h2>
         </div>
-      </div>
       <div className="portfolio--section--container">
         {data?.portfolio?.map((item, index) => (
           <div key={index} className="portfolio--section--card">
