@@ -6,7 +6,7 @@ const HeroSection = () => {
     <section id="heroSection" className="hero--section">
       <div className="hero--section--content--box">
         <div className="hero--section--content">
-          <p className="section--title">Hey, I'm Binod</p>
+          <p className="section--title1">Hey, I'm Binod</p>
           <h1 className="hero--section--title">
             <span className="hero--section-title--color">IT</span>{" "}
             <br />
